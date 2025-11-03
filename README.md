@@ -1,89 +1,77 @@
-<!-- Animated GIF on the right -->
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-<h1 align="center">
-  👋 Welcome to <span style="color:#f75c7e;">Karim Saad</span>'s Profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<h3 align="center">
+  Welcome to Kareem Saad's Profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<!-- Typing effect -->
+<!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer+in+progress...;Lifelong+Learner+%F0%9F%93%9A;Loves+Automation+and+Smart+Projects;Coding+with+Tea+%E2%98%95%EF%B8%8F">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Physics%20Teacher%20%26%20Programmer;Automation%20and%20Design%20Enthusiast;Always%20Learning%20New%20Things!&font=Fira%20Code&center=true&width=500&height=45&color=00C2CB&vCenter=true&size=22">
   </a>
 </p>
 
 ---
 
-### 🧠 About Me  
-- 👨‍💻 **Aspiring Frontend Developer**  
-- 💬 **Ask me about:**  
-  - **Python**, **HTML**, **CSS**, **C++**  
-  - **Automation**, **Educational Tools**, and **Smart Projects**  
-- 🌟 **Current Goal:** Master **React** and create real-world projects.  
-- 🎯 **Future Vision:** Merge **AI**, **Education**, and **Automation** to build smarter learning systems.  
-- 📚 **Hobbies:** Reading 📖, Design 🎨, and Content Creation 🎬  
-- 🍵 **Fun Fact:** My best ideas come with a cup of tea! ☕  
+### 👋 About Me
+
+- 🧠 **Hi, I'm Kareem Saad** — a **Physics Teacher** passionate about **programming, automation, and creative design**.  
+- 💻 I’m currently learning **Programming, Design, and Video Editing**.  
+- 🎯 **Goals**:  
+  - Build smart automation systems for education.  
+  - Create high-quality educational content.  
+- 📚 **Hobbies**: Reading, learning new skills, and teaching science in creative ways.  
+- ☕ **Fun Fact**: I run better on tea than coffee!  
 
 ---
 
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/%D9%83%D8%B1%D9%8A%D9%85-%D8%B3%D8%B9%D8%AF-a507a6260/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center" style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/كريم-سعد-a507a6260/" target="_blank">
+    <img src="https://img.shields.io/badge/-Kareem%20Saad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://t.me/karamila86" target="_blank">
+    <img src="https://img.shields.io/badge/-@karamila86-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" />
   </a>
-  
-  <a href="karamila86@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:karamila86@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-karamila86@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/karimmohamed.mohamed.7/" target="_blank">
+    <img src="https://img.shields.io/badge/-Kareem%20Saad-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
----
-
-### 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,cpp,git,github,vscode,react,figma,canva" />
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="40">
+  <em>Hover over the buttons — they come alive!</em>
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="40">
 </p>
 
 ---
 
-### 🚀 Current Focus  
-💡 Building automation systems using **n8n**, **Google Sheets**, and **Telegram Bots** to make education smarter and faster.  
-📈 Experimenting with interactive learning tools and online quizzes that connect directly with parents and students.
+### 📊 GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karim-saad&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
+<a href="https://komarev.com/ghpvc/?username=karim-saad&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=karim-saad&style=for-the-badge&color=brightgreen">
+</a>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karim-saad&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-saad&layout=compact&theme=radical&hide_border=false" height="180"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karim-saad&theme=dracula&no-frame=true&margin-w=10" />
-</p>
-
----
-
-### ✨ Visitor Counter  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karim-saad&style=for-the-badge&color=blueviolet">
-</p>
-
----
-
-### 💬 Quote  
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-
----
-
-### ⚡ Fun Section  
-<p align="center">
-  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="400"/>
-</p>
+⭐️ *“Keep learning, keep creating, and make education smarter!”*
