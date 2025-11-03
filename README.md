@@ -29,16 +29,14 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/%D9%83%D8%B1%D9%8A%D9%85-%D8%B3%D8%B9%D8%AF-a507a6260/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
   <a href="https://t.me/" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" />
-  </a>
-  <a href="mailto:karim.saad@example.com">
+  
+  <a href="karamila86@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
